@@ -20,11 +20,12 @@ steps:
   - task: DownloadPipelineArtifact@2
     inputs:
       buildType: 'specific'
-      project: 'ef11f37e-aaf6-4dfd-b51a-058da6c4c926'
-      definition: '15'
+      project: '70958be6-5782-4ab9-a2ea-e4d22aeccd2c'
+      definition: '25'
       specificBuildWithTriggering: true
       buildVersionToDownload: 'latest'
       targetPath: '$(Pipeline.Workspace)'
+  
       
   - task: AzureResourceManagerTemplateDeployment@3
     inputs:
