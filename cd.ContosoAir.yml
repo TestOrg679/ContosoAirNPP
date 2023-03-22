@@ -8,8 +8,8 @@ trigger:
 
 resources:
   pipelines:
-    - pipeline: builContosoAir
-      source: builContosoAir
+    - pipeline: buildContosoAir
+      source: buildContosoAir
       trigger:
         branches:
           include:
