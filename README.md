@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/devopsEssentials12/testtemp1/_apis/build/status/TestOrg679.ContosoAirNPP?branchName=master)](https://dev.azure.com/devopsEssentials12/testtemp1/_build/latest?definitionId=25&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
